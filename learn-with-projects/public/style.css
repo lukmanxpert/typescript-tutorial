@@ -1,0 +1,13 @@
+body {
+    font-family: 'Fira Code';
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid;
+}
+
+div {
+    margin: .5rem 0;
+}
